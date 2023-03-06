@@ -108,7 +108,7 @@ class Trix.AttachmentView extends Trix.ObjectView
       textContent: Trix.ZERO_WIDTH_SPACE
       data:
         trixCursorTarget: name
-        trixSerialize: false
+        trixSerialize: true
 
   # Attachment delegate
 
